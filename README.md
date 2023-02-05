@@ -1,16 +1,13 @@
-### Hi there 👋
 
+RaldzInfoTechPH
+============
+[![GitHub Stars](https://img.shields.io/github/stars/IgorAntun/node-chat.svg)](https://github.com/IgorAntun/node-chat/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/IgorAntun/node-chat/issues) [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/IgorAntun/node-chat) [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://igorantun.com/chat) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/IgorAntun/node-chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-**r47dzt3ch/r47dzt3ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## Buy me a coffee
 
-Here are some ideas to get you started:
+Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)
 
-- 🔭 I’m currently working on Splace Corporation...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+<a href="https://www.buymeacoffee.com/R47dzT3ch" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=r47dzt3ch&count_private=true&show_icons=true&theme=radical&hide_rank=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r47dzt3ch)
+---
