@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=r47dzt3ch&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r47dzt3ch)]
+![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=r47dzt3ch&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r47dzt3ch)
