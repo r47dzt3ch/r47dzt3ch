@@ -1,13 +1,40 @@
 
 RaldzInfoTechPH
-============
+# About Me
 
+Hi there, I'm [Jerald Jose]! I'm a software developer with a passion for programming and a strong interest in web development and desktop development. Here's a quick rundown of my programming skills:
 
+- **Programming Languages:** HTML/CSS, JavaScript, Python, Java, C++, PHP, C#, Jquerry, AJAX
+- **Frameworks & Libraries:** ReactJS, Node.js, Express.js, Django, Flaskm, Bootstrap, Laravel
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
+- **Other Skills:** Git, RESTful API development,  Linux, Cyber Security beginner, Network Packetracer
 
-## Buy me a coffee
+## Open-Source Contributions
 
-Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)
+I'm a firm believer in the power of open-source software, and I actively contribute to various projects in my spare time. Here are some of my notable contributions:
 
-<a href="https://www.buymeacoffee.com/R47dzT3ch" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+- [Project Name 1](insert link here): Description of your contribution.
+- [Project Name 2](insert link here): Description of your contribution.
+- [Project Name 3](insert link here): Description of your contribution.
 
----
+## Social Media & Donations
+
+You can find me on the following social media platforms:
+
+- [Twitter](insert link here)
+- [LinkedIn](insert link here)
+- [GitHub](insert link here)
+- [Website/Blog](insert link here)
+
+If you'd like to support me and my work, you can also buy me a coffee via [PayPal](insert link here) or [Patreon](insert link here)
+
+## Stats
+
+<!-- GitHub Stats Card -->
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=r47dzt3ch&show_icons=true&theme=dark)
+
+<!-- Top Languages Card -->
+![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r47dzt3ch&layout=compact&theme=dark)
+
+<!-- Wakatime Stats Card -->
+![Your Name's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=r47dzt3ch&layout=compact&theme=dark)
