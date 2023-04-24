@@ -13,17 +13,18 @@ Hi there, I'm [Jerald Jose]! I'm a software developer with a passion for program
 
 I'm a firm believer in the power of open-source software, and I actively contribute to various projects in my spare time. Here are some of my notable contributions:
 
-- [Project Name 1](insert link here): Description of your contribution.
-- [Project Name 2](insert link here): Description of your contribution.
-- [Project Name 3](insert link here): Description of your contribution.
+- [Splace LeadProfiling Web Development](splacebpo.com): Description of your contribution.
+- [RiSys](insert link here): Description of your contribution.
+- [LCC-SAMS](insert link here): Description of your contribution.
+- [NINHS-SMS](ninhs-SchoolManagementSystem.com): Description of your contribution.
 
 ## Social Media & Donations
 
 You can find me on the following social media platforms:
 
-- [Twitter](insert link here)
-- [LinkedIn](insert link here)
-- [GitHub](insert link here)
+- [Twitter]()
+- [LinkedIn](https://www.linkedin.com/in/jeraldjose/)
+- [GitHub](https://github.com/r47dzt3ch/)
 - [Website/Blog](insert link here)
 
 If you'd like to support me and my work, you can also buy me a coffee via [PayPal](insert link here) or [Patreon](insert link here)
