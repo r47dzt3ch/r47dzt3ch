@@ -77,15 +77,7 @@ Here are a few notable projects I have worked on:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-
-
-
-
-
 ## Stats
-
-
-
 <!-- Top Languages Card -->
 <div align="center">
   <a href="https://github.com/r47dzt3ch">
