@@ -27,6 +27,30 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 <p>Welcome to my GitHub profile! I'm Jerald Jose, a dedicated software developer with a keen interest in web development and desktop development. I am passionate about programming and enjoy creating innovative solutions that enhance user experiences.</p>
 
+## Projects
+
+Here are a few notable projects I have worked on:
+
+### Web Application
+![Web Application](web-application-screenshot.png)
+
+- Developed a responsive and interactive web application using HTML, CSS, and JavaScript.
+- Implemented backend functionality using Node.js.
+- Integrated a database to store and retrieve data.
+
+### Desktop Application
+![Desktop Application](desktop-application-screenshot.png)
+
+- Created a user-friendly desktop application using C#.
+- Streamlined the process of data analysis and visualization for a research project.
+
+### Portfolio Website
+![Portfolio Website](portfolio-website-screenshot.png)
+
+- Built a personal portfolio website using modern web technologies.
+- Showcased my projects and skills.
+- Implemented a clean and visually appealing design using HTML, CSS, and JavaScript.
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -63,36 +87,17 @@
 - **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
 - **Other Skills:** Git, RESTful API development,  Linux, Cyber Security beginner, Network Packetracer
 
-## Open-Source Contributions
-
-I'm a firm believer in the power of open-source software, and I actively contribute to various projects in my spare time. Here are some of my notable contributions:
-
-- [Splace LeadProfiling Web Development](splacebpo.com): Description of your contribution.
-- [RiSys](insert link here): Description of your contribution.
-- [LCC-SAMS](insert link here): Description of your contribution.
-- [NINHS-SMS](ninhs-SchoolManagementSystem.com): Description of your contribution.
-
-## Social Media & Donations
-
-You can find me on the following social media platforms:
-
-- [Twitter]()
-- [LinkedIn](https://www.linkedin.com/in/jeraldjose/)
-- [GitHub](https://github.com/r47dzt3ch/)
-- [Website/Blog](insert link here)
 
 If you'd like to support me and my work, you can also buy me a coffee via [PayPal](insert link here) or [Patreon](insert link here)
 
 ## Stats
 
-<!-- GitHub Stats Card -->
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=r47dzt3ch&show_icons=true&theme=dark)
+
 
 <!-- Top Languages Card -->
 ![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r47dzt3ch&layout=compact&theme=dark)
 
-<!-- Wakatime Stats Card -->
-![Your Name's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=r47dzt3ch&layout=compact&theme=dark)
+
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
