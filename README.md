@@ -32,11 +32,10 @@
 Here are a few notable projects I have worked on:
 
 ### Web Application
-![Web Application](web-application-screenshot.png)
+![Splace-lead profiling and verifying system](https://res.cloudinary.com/dbkpjazoq/image/upload/v1688149971/my-portfolio/splace%20leadprofiling%20and%20verifying%20System.png)
 
-- Developed a responsive and interactive web application using HTML, CSS, and JavaScript.
-- Implemented backend functionality using Node.js.
-- Integrated a database to store and retrieve data.
+- Developed a responsive and interactive web application using HTML, CSS,bootstrap, and JavaScript.
+- Implemented backend functionality using php,jquerry and MySQL database.
 
 ### Desktop Application
 ![Desktop Application](desktop-application-screenshot.png)
@@ -82,13 +81,6 @@ Here are a few notable projects I have worked on:
 
 
 
-- **Programming Languages:** HTML/CSS, JavaScript, Python, Java, C++, PHP, C#, Jquerry, AJAX
-- **Frameworks & Libraries:** ReactJS, Node.js, Express.js, Django, Flaskm, Bootstrap, Laravel
-- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
-- **Other Skills:** Git, RESTful API development,  Linux, Cyber Security beginner, Network Packetracer
-
-
-If you'd like to support me and my work, you can also buy me a coffee via [PayPal](insert link here) or [Patreon](insert link here)
 
 ## Stats
 
