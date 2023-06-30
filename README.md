@@ -87,7 +87,12 @@ Here are a few notable projects I have worked on:
 
 
 <!-- Top Languages Card -->
-![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r47dzt3ch&layout=compact&theme=dark)
+<div align="center">
+  <a href="https://github.com/r47dzt3ch">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r47dzt3ch&layout=compact&theme=dark" alt="Your Name's Top Languages">
+  </a>
+</div>
+
 
 
 
