@@ -24,6 +24,9 @@
 </a>
 </p>
 
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<p>Welcome to my GitHub profile! I'm Jerald Jose, a dedicated software developer with a keen interest in web development and desktop development. I am passionate about programming and enjoy creating innovative solutions that enhance user experiences.</p>
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -51,9 +54,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-# About Me
 
-Hi there, I'm [Jerald Jose]! I'm a software developer with a passion for programming and a strong interest in web development and desktop development. Here's a quick rundown of my programming skills:
+
+
 
 - **Programming Languages:** HTML/CSS, JavaScript, Python, Java, C++, PHP, C#, Jquerry, AJAX
 - **Frameworks & Libraries:** ReactJS, Node.js, Express.js, Django, Flaskm, Bootstrap, Laravel
