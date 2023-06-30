@@ -38,13 +38,13 @@ Here are a few notable projects I have worked on:
 - Implemented backend functionality using php,jquerry and MySQL database.
 
 ### Desktop Application
-![Desktop Application](desktop-application-screenshot.png)
+![LCC-SAMS ](https://res.cloudinary.com/dbkpjazoq/image/upload/v1688150938/my-portfolio/lcc-sams_loginForm.png)
 
-- Created a user-friendly desktop application using C#.
-- Streamlined the process of data analysis and visualization for a research project.
+- Created a user-friendly desktop application developed using the VB.NET programming language with the capability to generate bills for students in institutions.
+
 
 ### Portfolio Website
-![Portfolio Website](portfolio-website-screenshot.png)
+![Portfolio Website](https://res.cloudinary.com/dbkpjazoq/image/upload/v1688151290/my-portfolio/ojt-portfolio.png)
 
 - Built a personal portfolio website using modern web technologies.
 - Showcased my projects and skills.
