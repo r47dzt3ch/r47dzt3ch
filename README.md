@@ -6,7 +6,23 @@
   Let's Connect and have a Chat!💬
 </h1>
 
-
+<p align="center">
+<a href="https://www.linkedin.com/in/jeraldjose/">
+  <img height="50" src="https://res.cloudinary.com/dbkpjazoq/image/upload/v1688144593/social-media-icon/linkedin_wvfje7.png"/>
+</a>
+<a href="https://wa.me/qr/SP5SZZGGVJ3SE1">
+  <img height="50" src="https://res.cloudinary.com/dbkpjazoq/image/upload/v1688144593/social-media-icon/whatsapp_waie0a.png"/>
+</a>
+<a href="https://web.facebook.com/jerald.jose.316">
+  <img height="50" src="https://res.cloudinary.com/dbkpjazoq/image/upload/v1688144594/social-media-icon/facebook_laopcg.png"/>
+</a>
+<a href="patreon.com/user?u=84868330">
+  <img height="50" src="https://res.cloudinary.com/dbkpjazoq/image/upload/v1688144594/social-media-icon/patreon_gtvjim.png"/>
+</a>
+<a href="mailto:jeraldjose16@gmail.com">
+  <img height="50" src="https://res.cloudinary.com/dbkpjazoq/image/upload/v1688146129/social-media-icon/gmail_euusko.png"/>
+</a>
+</p>
 RaldzInfoTechPH
 # About Me
 
