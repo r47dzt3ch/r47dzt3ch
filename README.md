@@ -16,7 +16,7 @@
 <a href="https://web.facebook.com/jerald.jose.316">
   <img height="50" src="https://res.cloudinary.com/dbkpjazoq/image/upload/v1688144594/social-media-icon/facebook_laopcg.png"/>
 </a>
-<a href="patreon.com/user?u=84868330">
+<a href="https://patreon.com/user?u=84868330">
   <img height="50" src="https://res.cloudinary.com/dbkpjazoq/image/upload/v1688144594/social-media-icon/patreon_gtvjim.png"/>
 </a>
 <a href="mailto:jeraldjose16@gmail.com">
