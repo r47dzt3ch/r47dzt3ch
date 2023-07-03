@@ -32,18 +32,22 @@
 Here are a few notable projects I have worked on:
 
 ### Web Application
+<!-- title -->
+<h4>Splace-lead profiling and verifying system</h4>
 ![Splace-lead profiling and verifying system](https://res.cloudinary.com/dbkpjazoq/image/upload/v1688149971/my-portfolio/splace%20leadprofiling%20and%20verifying%20System.png)
 
 - Developed a responsive and interactive web application using HTML, CSS,bootstrap, and JavaScript.
 - Implemented backend functionality using php,jquerry and MySQL database.
 
 ### Desktop Application
+<h4>LCC-SAMS</h4>
 ![LCC-SAMS ](https://res.cloudinary.com/dbkpjazoq/image/upload/v1688150938/my-portfolio/lcc-sams_loginForm.png)
 
 - Created a user-friendly desktop application developed using the VB.NET programming language with the capability to generate bills for students in institutions.
 
 
 ### Portfolio Website
+<a href="https://r47dzt3ch.github.io/my-portfolio/"><h4>Portfolio Website</h4></a>
 ![Portfolio Website](https://res.cloudinary.com/dbkpjazoq/image/upload/v1688151290/my-portfolio/ojt-portfolio.png)
 
 - Built a personal portfolio website using modern web technologies.
