@@ -39,7 +39,7 @@
 
 Here are a few notable projects I have worked on:
 
-### Web Application
+### Web Development
 <!-- title -->
 <h4>Splace-lead profiling and verifying system</h4>
 
