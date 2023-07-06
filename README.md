@@ -50,7 +50,7 @@ Here are a few notable projects I have worked on:
 
 ### Portfolio Website
 <a href="https://jeraldjportfolio.netlify.app/"><h4>Portfolio Website</h4></a>
-![Portfolio Website]([https://res.cloudinary.com/dbkpjazoq/image/upload/v1688151290/my-portfolio/ojt-portfolio.png](https://res.cloudinary.com/dbkpjazoq/image/upload/v1688613141/my-portfolio/portfolio_preview.png))
+![Portfolio Website]([https://res.cloudinary.com/dbkpjazoq/image/upload/v1688613141/my-portfolio/portfolio_preview.png)
 
 - Built a personal portfolio website using modern web technologies.
 - Showcased my projects and skills.
