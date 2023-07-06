@@ -29,7 +29,7 @@
 
 ### My Portfolio
 [Portfolio Website](https://jeraldjportfolio.netlify.app/)
-![Portfolio Website](https://res.cloudinary.com/dbkpjazoq/image/upload/v1688151290/my-portfolio/ojt-portfolio.png)
+![Portfolio Website](https://res.cloudinary.com/dbkpjazoq/image/upload/v1688613141/my-portfolio/portfolio_preview.png)
 
 - Built a personal portfolio website using modern web technologies.
 - Showcased my projects and skills.
