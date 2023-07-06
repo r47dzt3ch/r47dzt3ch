@@ -43,22 +43,15 @@ Here are a few notable projects I have worked on:
 <!-- title -->
 <h4>Splace-lead profiling and verifying system</h4>
 
-![Splace-lead profiling and verifying system](https://res.cloudinary.com/dbkpjazoq/image/upload/v1688149971/my-portfolio/splace%20leadprofiling%20and%20verifying%20System.png)
-
 - Developed a responsive and interactive web application using HTML, CSS,bootstrap, and JavaScript.
 - Implemented backend functionality using php,jquerry and MySQL database.
 
 ### Desktop Development
 <h4>LCC-SAMS</h4>
-
-![LCC-SAMS ](https://res.cloudinary.com/dbkpjazoq/image/upload/v1688150938/my-portfolio/lcc-sams_loginForm.png)
-
 - Created a user-friendly desktop application developed using the VB.NET programming language with the capability to generate bills for students in institutions.
 
 ### App Development
 <h4>RiSys</h4>
-
-![RiSys](https://res.cloudinary.com/dbkpjazoq/image/upload/v1688619372/my-portfolio/Ri_Sys.png)
 
 - A Rice Mobile Rice Irrigation System that can be controlled using an Android application with IoT technology.
 - Developed an Android application using Java and Firebase.
