@@ -43,19 +43,27 @@ Here are a few notable projects I have worked on:
 <!-- title -->
 <h4>Splace-lead profiling and verifying system</h4>
 
+[GitHub Repository](https://github.com/r47dzt3ch/splacecoworkingplace)
+
 - Developed a responsive and interactive web application using HTML, CSS,bootstrap, and JavaScript.
 - Implemented backend functionality using php,jquerry and MySQL database.
 
 ### Desktop Development
 <h4>LCC-SAMS</h4>
+
+[GitHub Repository](https://github.com/r47dzt3ch/StudentsAccountManagementSystem-LCC-SAMS-)
+
 - Created a user-friendly desktop application developed using the VB.NET programming language with the capability to generate bills for students in institutions.
 
 ### App Development
 <h4>RiSys</h4>
 
-- A Rice Mobile Rice Irrigation System that can be controlled using an Android application with IoT technology.
-- Developed an Android application using Java and Firebase.
-- Implemented a user-friendly interface with a clean and visually appealing design.
+- Developed a responsive and interactive mobile application using java and XML.
+
+[GitHub Repository](https://github.com/r47dzt3ch/RySys.V2)
+
+
+
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
