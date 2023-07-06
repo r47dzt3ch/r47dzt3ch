@@ -27,9 +27,8 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 <p>Welcome to my GitHub profile! I'm Jerald Jose, a dedicated software developer with a keen interest in web development and desktop development. I am passionate about programming and enjoy creating innovative solutions that enhance user experiences.</p>
 
-### Portfolio Website
-<a href="https://r47dzt3ch.github.io/my-portfolio/"><h4>Portfolio Website</h4></a>
-
+### My Portfolio
+[Portfolio Website](https://jeraldjportfolio.netlify.app/)
 ![Portfolio Website](https://res.cloudinary.com/dbkpjazoq/image/upload/v1688151290/my-portfolio/ojt-portfolio.png)
 
 - Built a personal portfolio website using modern web technologies.
@@ -57,15 +56,6 @@ Here are a few notable projects I have worked on:
 - Created a user-friendly desktop application developed using the VB.NET programming language with the capability to generate bills for students in institutions.
 
 
-<<<<<<< HEAD
-=======
-### My Portfolio Website
-[Portfolio Website](https://jeraldjportfolio.netlify.app/)
-![Portfolio Website](https://res.cloudinary.com/dbkpjazoq/image/upload/v1688613141/my-portfolio/portfolio_preview.png)
-- Built a personal portfolio website using modern web technologies.
-- Showcased my projects and skills.
-- Implemented a clean and visually appealing design using HTML, CSS, and JavaScript.
->>>>>>> 3924bec64935297df9814c0b40ec2f4e9b7098ed
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
