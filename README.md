@@ -51,7 +51,7 @@ Here are a few notable projects I have worked on:
 ### Desktop Development
 <h4>LCC-SAMS</h4>
 
-[GitHub Repository](https://github.com/r47dzt3ch/StudentsAccountManagementSystem-LCC-SAMS-)
+[GitHub Repository](https://github.com/r47dzt3ch/LCC-SAMS)
 
 - Created a user-friendly desktop application developed using the VB.NET programming language with the capability to generate bills for students in institutions.
 
