@@ -60,6 +60,11 @@ Here are a few notable projects I have worked on:
 
 ![RiSys](https://res.cloudinary.com/dbkpjazoq/image/upload/v1688619372/my-portfolio/Ri_Sys.png)
 
+- A Rice Mobile Rice Irrigation System that can be controlled using an Android application with IoT technology.
+- Developed an Android application using Java and Firebase.
+- Implemented a user-friendly interface with a clean and visually appealing design.
+
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
