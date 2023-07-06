@@ -55,7 +55,10 @@ Here are a few notable projects I have worked on:
 
 - Created a user-friendly desktop application developed using the VB.NET programming language with the capability to generate bills for students in institutions.
 
+### App Development
+<h4>RiSys</h4>
 
+![RiSys](https://res.cloudinary.com/dbkpjazoq/image/upload/v1688619372/my-portfolio/Ri_Sys.png)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
