@@ -1,4 +1,3 @@
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=r47dzt3ch&height=100&section=header)
 
 # r47dzt3ch - Jerald Jose
@@ -23,78 +22,85 @@ Config files for my GitHub profile.  Passionate Software Developer crafting inno
 
 ---
 
+## 🎯 About This Project
+
+This repository contains configuration files for my GitHub profile.  I'm a passionate software developer focused on creating innovative and user-friendly applications for web and desktop platforms.
+
+📌 Check out my portfolio: [jeraldjose.netlify.app](https://jeraldjose.netlify.app/)
+
+---
+
 ## ✨ Features
 
-- [x] 🚀 Responsive Web Apps: Applications adapt seamlessly to different screen sizes.
-- [x] 🧑‍💻 User-Friendly Interfaces: Intuitive and easy-to-navigate designs.
-- [x] 🧹 Clean & Efficient Code: Well-structured, readable, and maintainable codebase.
-- [x] 🌐 Cross-Platform Compatibility: Applications function across multiple operating systems (where applicable).
-- [x]  Git Version Control: Utilizing Git for efficient code management and collaboration.
+| Feature                     | Description                                                                        | Status |
+|------------------------------|------------------------------------------------------------------------------------|--------|
+| 🚀 Responsive Web Apps       | Applications adapt seamlessly to different screen sizes.                           | ✅      |
+| 🧑‍💻 User-Friendly Interfaces | Intuitive and easy-to-navigate designs.                                          | ✅      |
+| 🧹 Clean & Efficient Code    | Well-structured, readable, and maintainable codebase.                             | ✅      |
+| 🌐 Cross-Platform Compatibility | Applications function across multiple operating systems (where applicable).          | ✅      |
+| Git Version Control         | Utilizing Git for efficient code management and collaboration.                     | ✅      |
 
 
 ---
 
 ## 🚀 Quick Start
 
-This section is not applicable to a profile README.
+This profile README does not require a quick start guide.
 
 ---
 
 ## 📦 Installation
 
-This section is not applicable to a profile README.
+This profile README does not require installation instructions.
 
 ---
 
 ## 🛠️ Usage
 
-This section is not applicable to a profile README.
+This profile README does not require usage instructions.
 
 ---
 
 ## ⚙️ Configuration
 
-This section is not applicable to a profile README.
+This profile README does not require configuration instructions.
 
 ---
 
 ## 🏗️ Project Structure
 
-This section is not applicable to a profile README.
+This profile README does not require a project structure description.
 
 ---
 
 ## 🧪 Testing
 
-This section is not applicable to a profile README.
+This profile README does not require testing instructions.
 
 ---
 
 ## 🚀 Deployment
 
-This section is not applicable to a profile README.
+This profile README does not require deployment instructions.
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request.
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
 
 ## 👨‍💻 Author
 
-Jerald Jose
-
-[Portfolio Website](https://jeraldjose.netlify.app/)
-[Contact](https://jeraldjose.netlify.app/#contact)
-![Portfolio Preview](https://res.cloudinary.com/dbkpjazoq/image/upload/v1688613141/my-portfolio/portfolio_preview.png)
+**Jerald Jose**
+[Portfolio Website](https://jeraldjose.netlify.app/) | [Contact](https://jeraldjose.netlify.app/#contact)
 
 ---
 
@@ -140,5 +146,3 @@ Jerald Jose
 ![html5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
 ![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg)
 ![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
-
-
