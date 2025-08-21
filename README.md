@@ -1,10 +1,13 @@
+```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!%20I'm%20Jerald%20Jose&height=100&section=header"/>
 </p>
 
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
+<h1 align="center">Jerald Jose - Software Developer</h1>
+
+<p align="center">
+  A passionate software developer focused on creating innovative and user-friendly web and desktop applications.  Let's connect! 💬
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jeraldjose/">
@@ -24,49 +27,56 @@
 </a>
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-<p>Welcome to my GitHub profile! I'm Jerald Jose, a dedicated software developer with a keen interest in web development and desktop development. I am passionate about programming and enjoy creating innovative solutions that enhance user experiences.</p>
 
-### My Portfolio
+## About Me
+
+I'm Jerald Jose, a dedicated software developer with a passion for building innovative and user-friendly applications. My focus areas include web and desktop development, and I'm always eager to learn new technologies and expand my skillset.  I enjoy tackling challenging projects and creating solutions that enhance user experiences.
+
+
+## Portfolio
+
 [Portfolio Website](https://jeraldjportfolio.netlify.app/)
+
 ![Portfolio Website](https://res.cloudinary.com/dbkpjazoq/image/upload/v1688613141/my-portfolio/portfolio_preview.png)
 
-- Built a personal portfolio website using modern web technologies.
-- Showcased my projects and skills.
-- Implemented a clean and visually appealing design using HTML, CSS, and JavaScript.
+My portfolio showcases a range of projects highlighting my skills in HTML, CSS, JavaScript, and more.  Check it out to see what I've been working on!
+
 
 ## Projects
 
-Here are a few notable projects I have worked on:
+Here are some notable projects I've developed:
 
 ### Web Development
-<!-- title -->
-<h4>Splace-lead profiling and verifying system</h4>
+
+#### Splace - Lead Profiling and Verifying System
 
 [GitHub Repository](https://github.com/r47dzt3ch/splacecoworkingplace)
 
-- Developed a responsive and interactive web application using HTML, CSS,bootstrap, and JavaScript.
-- Implemented backend functionality using php,jquerry and MySQL database.
+- Developed a responsive web application using HTML, CSS, Bootstrap, JavaScript, PHP, jQuery, and MySQL.
+- Implemented lead profiling and verification features.
+
 
 ### Desktop Development
-<h4>LCC-SAMS</h4>
+
+#### LCC-SAMS (LCC Student Account Management System)
 
 [GitHub Repository](https://github.com/r47dzt3ch/LCC-SAMS)
 
-- Created a user-friendly desktop application developed using the VB.NET programming language with the capability to generate bills for students in institutions.
+- Created a user-friendly desktop application using VB.NET.
+- Provides functionality for generating student bills in educational institutions.
 
-### App Development
-<h4>RiSys</h4>
 
-- Developed a responsive and interactive mobile application using java and XML.
+### Mobile App Development
+
+#### RiSys (Version 2)
 
 [GitHub Repository](https://github.com/r47dzt3ch/RySys.V2)
 
+- Developed a responsive mobile application using Java and XML.
 
 
+## Skills
 
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
@@ -92,17 +102,9 @@ Here are a few notable projects I have worked on:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-## Stats
+## GitHub Stats
+
 <!-- Top Languages Card -->
 <div align="center">
   <a href="https://github.com/r47dzt3ch">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r47dzt3ch&layout=compact&theme=dark" alt="Your Name's Top Languages">
-  </a>
-</div>
-
-
-
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r47dzt3ch&layout=compact&theme=
