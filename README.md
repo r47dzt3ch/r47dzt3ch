@@ -1,4 +1,4 @@
-```markdown
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=r47dzt3ch&height=100&section=header)
 
 # r47dzt3ch - Jerald Jose
@@ -141,4 +141,4 @@ Jerald Jose
 ![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg)
 ![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
 
-```
+
