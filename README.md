@@ -5,7 +5,7 @@
 
 <h1 align="center">Jerald Jose - Software Developer</h1>
 <p align="center">
-  A passionate software developer focused on creating innovative and user-friendly web and desktop applications.  Let's connect! 💬
+  A passionate software developer focused on creating innovative and user-friendly web and desktop applications. Let's connect! 💬
 </p>
 
 <p align="center">
@@ -22,6 +22,10 @@
   </a>
   <br>
   <a href="https://github.com/r47dzt3ch/r47dzt3ch"><img src="https://img.shields.io/github/license/r47dzt3ch/r47dzt3ch?style=for-the-badge" alt="License"></a>
+  <a href="https://github.com/r47dzt3ch/r47dzt3ch"><img src="https://img.shields.io/github/stars/r47dzt3ch/r47dzt3ch?style=for-the-badge" alt="GitHub Stars"></a>
+  <a href="https://github.com/r47dzt3ch/r47dzt3ch"><img src="https://img.shields.io/github/forks/r47dzt3ch/r47dzt3ch?style=for-the-badge" alt="GitHub Forks"></a>
+  <a href="https://github.com/r47dzt3ch/r47dzt3ch"><img src="https://img.shields.io/github/issues/r47dzt3ch/r47dzt3ch?style=for-the-badge" alt="GitHub Issues"></a>
+
 </div>
 
 
@@ -32,11 +36,13 @@ I'm Jerald Jose, a dedicated software developer with a passion for building inno
 
 ## ✨ Features
 
-- [x]  Responsive Web Applications
-- [x]  User-Friendly Interfaces
-- [x]  Clean and Efficient Code
-- [x]  Cross-Platform Compatibility (where applicable)
-- [x]  Version Control (Git)
+| Feature                     | Status | Description                                                              |
+|------------------------------|--------|--------------------------------------------------------------------------|
+| 🚀 Responsive Web Apps       | ✅     | Applications adapt seamlessly to different screen sizes.                   |
+| 🧑‍💻 User-Friendly Interfaces | ✅     | Intuitive and easy-to-navigate designs.                                  |
+| 🧹 Clean & Efficient Code    | ✅     | Well-structured, readable, and maintainable codebase.                    |
+| 🌐 Cross-Platform Compatibility | ✅     | Applications function across multiple operating systems (where applicable). |
+|  Git Version Control        | ✅     | Utilizing Git for efficient code management and collaboration.           |
 
 
 ## 🚀 Quick Start
@@ -46,32 +52,32 @@ This section would contain instructions for a quick one-command setup if applica
 
 ## 📦 Installation
 
-This section would contain detailed installation instructions for different methods (e.g., npm, yarn, git clone).  Since this is a profile, this section is not applicable.
+Since this is a profile README, detailed installation instructions are not applicable.
 
 
 ## 🛠️ Usage
 
-This section would contain code examples with syntax highlighting demonstrating how to use any tools or libraries in this repository. Since this is a profile, this section is not applicable.
+Since this is a profile README, usage examples are not applicable.
 
 
 ## ⚙️ Configuration
 
-This section would describe any necessary environment setup or configuration steps.  Since this is a profile, this section is not applicable.
+Since this is a profile README, configuration details are not applicable.
 
 
 ## 🏗️ Project Structure
 
-This section would show a file tree or a description of the project structure if applicable. Since this is a profile, this section is not applicable.
+Since this is a profile README, project structure details are not applicable.
 
 
 ## 🧪 Testing
 
-This section would explain how to run tests for the project if applicable. Since this is a profile, this section is not applicable.
+Since this is a profile README, testing instructions are not applicable.
 
 
 ## 🚀 Deployment
 
-This section would detail the deployment process. Since this is a profile, this section is not applicable.
+Since this is a profile README, deployment instructions are not applicable.
 
 
 ## 🤝 Contributing
@@ -131,9 +137,4 @@ Jerald Jose
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-<img src="
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.
