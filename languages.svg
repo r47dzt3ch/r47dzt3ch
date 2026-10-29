@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <style>
+    .title{font:700 18px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif;fill:#70a5fd}
+    .ln{font:600 13px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif;fill:#c0caf5}
+    .pc{font:600 12px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif;fill:#a9b1d6}
+    .row{opacity:0;animation:fade .5s ease-out forwards}
+    .grow,.seg{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow 1s cubic-bezier(.2,.8,.2,1) forwards}
+    @keyframes fade{to{opacity:1}}
+    @keyframes grow{to{transform:scaleX(1)}}
+  </style>
+  <rect width="400" height="300" rx="14" fill="#1a1b27" stroke="#2a2e42"/>
+  <text x="24" y="36" class="title">💻 Most Used Languages</text>
+  <clipPath id="bar"><rect x="24" y="56" width="352" height="12" rx="6"/></clipPath>
+  <g clip-path="url(#bar)"><rect x="24" y="56" width="352" height="12" fill="#24283b"/><rect x="24.0" y="56" width="128.7" height="12" fill="#3572A5" class="seg" style="animation-delay:0.20s"/><rect x="152.7" y="56" width="57.4" height="12" fill="#3178c6" class="seg" style="animation-delay:0.28s"/><rect x="210.0" y="56" width="48.2" height="12" fill="#878787" class="seg" style="animation-delay:0.36s"/><rect x="258.2" y="56" width="35.8" height="12" fill="#663399" class="seg" style="animation-delay:0.44s"/><rect x="294.0" y="56" width="29.9" height="12" fill="#4F5D95" class="seg" style="animation-delay:0.52s"/><rect x="323.9" y="56" width="19.6" height="12" fill="#A97BFF" class="seg" style="animation-delay:0.60s"/><rect x="343.5" y="56" width="14.6" height="12" fill="#e34c26" class="seg" style="animation-delay:0.68s"/><rect x="358.0" y="56" width="6.6" height="12" fill="#c6538c" class="seg" style="animation-delay:0.76s"/></g>
+  <g class="row" style="animation-delay:0.40s">
+    <circle cx="30" cy="94" r="5" fill="#3572A5"/>
+    <text x="42" y="98" class="ln">Python</text>
+    <rect x="160" y="89" width="170" height="8" rx="4" fill="#24283b"/>
+    <rect x="160" y="89" width="170.0" height="8" rx="4" fill="#3572A5" class="grow" style="animation-delay:0.40s"/>
+    <text x="378" y="98" class="pc" text-anchor="end">36.6%</text>
+  </g>
+  <g class="row" style="animation-delay:0.50s">
+    <circle cx="30" cy="118" r="5" fill="#3178c6"/>
+    <text x="42" y="122" class="ln">TypeScript</text>
+    <rect x="160" y="113" width="170" height="8" rx="4" fill="#24283b"/>
+    <rect x="160" y="113" width="75.8" height="8" rx="4" fill="#3178c6" class="grow" style="animation-delay:0.50s"/>
+    <text x="378" y="122" class="pc" text-anchor="end">16.3%</text>
+  </g>
+  <g class="row" style="animation-delay:0.60s">
+    <circle cx="30" cy="142" r="5" fill="#878787"/>
+    <text x="42" y="146" class="ln">Hack</text>
+    <rect x="160" y="137" width="170" height="8" rx="4" fill="#24283b"/>
+    <rect x="160" y="137" width="63.6" height="8" rx="4" fill="#878787" class="grow" style="animation-delay:0.60s"/>
+    <text x="378" y="146" class="pc" text-anchor="end">13.7%</text>
+  </g>
+  <g class="row" style="animation-delay:0.70s">
+    <circle cx="30" cy="166" r="5" fill="#663399"/>
+    <text x="42" y="170" class="ln">CSS</text>
+    <rect x="160" y="161" width="170" height="8" rx="4" fill="#24283b"/>
+    <rect x="160" y="161" width="47.3" height="8" rx="4" fill="#663399" class="grow" style="animation-delay:0.70s"/>
+    <text x="378" y="170" class="pc" text-anchor="end">10.2%</text>
+  </g>
+  <g class="row" style="animation-delay:0.80s">
+    <circle cx="30" cy="190" r="5" fill="#4F5D95"/>
+    <text x="42" y="194" class="ln">PHP</text>
+    <rect x="160" y="185" width="170" height="8" rx="4" fill="#24283b"/>
+    <rect x="160" y="185" width="39.4" height="8" rx="4" fill="#4F5D95" class="grow" style="animation-delay:0.80s"/>
+    <text x="378" y="194" class="pc" text-anchor="end">8.5%</text>
+  </g>
+  <g class="row" style="animation-delay:0.90s">
+    <circle cx="30" cy="214" r="5" fill="#A97BFF"/>
+    <text x="42" y="218" class="ln">Kotlin</text>
+    <rect x="160" y="209" width="170" height="8" rx="4" fill="#24283b"/>
+    <rect x="160" y="209" width="25.9" height="8" rx="4" fill="#A97BFF" class="grow" style="animation-delay:0.90s"/>
+    <text x="378" y="218" class="pc" text-anchor="end">5.6%</text>
+  </g>
+  <g class="row" style="animation-delay:1.00s">
+    <circle cx="30" cy="238" r="5" fill="#e34c26"/>
+    <text x="42" y="242" class="ln">HTML</text>
+    <rect x="160" y="233" width="170" height="8" rx="4" fill="#24283b"/>
+    <rect x="160" y="233" width="19.3" height="8" rx="4" fill="#e34c26" class="grow" style="animation-delay:1.00s"/>
+    <text x="378" y="242" class="pc" text-anchor="end">4.1%</text>
+  </g>
+  <g class="row" style="animation-delay:1.10s">
+    <circle cx="30" cy="262" r="5" fill="#c6538c"/>
+    <text x="42" y="266" class="ln">SCSS</text>
+    <rect x="160" y="257" width="170" height="8" rx="4" fill="#24283b"/>
+    <rect x="160" y="257" width="8.8" height="8" rx="4" fill="#c6538c" class="grow" style="animation-delay:1.10s"/>
+    <text x="378" y="266" class="pc" text-anchor="end">1.9%</text>
+  </g>
+</svg>
