@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f0c29">
+        <animate attributeName="stop-color" values="#0f0c29;#0f2027;#1a1033;#0f0c29" dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#203a43">
+        <animate attributeName="stop-color" values="#203a43;#2c5364;#24243e;#203a43" dur="12s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="txt" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="600" y2="0" spreadMethod="repeat">
+      <stop offset="0%" stop-color="#36bcf7"/>
+      <stop offset="33%" stop-color="#a855f7"/>
+      <stop offset="66%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#36bcf7"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="600 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Name reveal at the beginning -->
+    <clipPath id="reveal">
+      <rect x="40" y="110" height="100" width="0">
+        <animate attributeName="width" from="0" to="620" begin="0.4s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+      </rect>
+    </clipPath>
+
+    <!-- Terminal typing clips (loop every 14s) -->
+    <clipPath id="l1"><rect x="720" y="82" height="26" width="0"><animate attributeName="width" values="0;0;420;420;0" keyTimes="0;0.03;0.09;0.96;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l2"><rect x="720" y="108" height="26" width="0"><animate attributeName="width" values="0;0;420;420;0" keyTimes="0;0.11;0.14;0.96;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l3"><rect x="720" y="134" height="26" width="0"><animate attributeName="width" values="0;0;420;420;0" keyTimes="0;0.19;0.27;0.96;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l4"><rect x="720" y="160" height="26" width="0"><animate attributeName="width" values="0;0;420;420;0" keyTimes="0;0.29;0.33;0.96;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l5"><rect x="720" y="186" height="26" width="0"><animate attributeName="width" values="0;0;420;420;0" keyTimes="0;0.41;0.52;0.96;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l6"><rect x="720" y="212" height="26" width="0"><animate attributeName="width" values="0;0;420;420;0" keyTimes="0;0.56;0.62;0.96;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+
+    <style>
+      .hello{font:600 22px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif;fill:#a9b1d6;opacity:0;animation:up .8s ease-out .1s forwards}
+      .name{font:800 80px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif;letter-spacing:1px}
+      .sub{font:600 22px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif;fill:#e2e8f0;opacity:0;animation:up .8s ease-out 1.6s forwards}
+      .tag{font:500 15px 'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif;fill:#7dd3fc;opacity:0;animation:up .8s ease-out 2.1s forwards}
+      .mono{font:500 15px Consolas,'Courier New',monospace}
+      .term{opacity:0;animation:pop .7s cubic-bezier(.2,.9,.3,1.3) .8s forwards;transform-origin:925px 150px}
+      .star{fill:#fff}
+      @keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+      @keyframes pop{from{opacity:0;transform:scale(.85)}to{opacity:1;transform:scale(1)}}
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="340" fill="url(#bg)"/>
+
+  <!-- Twinkling stars -->
+  <g>
+    <circle class="star" cx="80" cy="40" r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle class="star" cx="210" cy="75" r="1"><animate attributeName="opacity" values="1;0.2;1" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle class="star" cx="340" cy="30" r="1.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/></circle>
+    <circle class="star" cx="460" cy="90" r="1"><animate attributeName="opacity" values="1;0.3;1" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle class="star" cx="560" cy="45" r="1.3"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle class="star" cx="650" cy="20" r="1"><animate attributeName="opacity" values="1;0.2;1" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle class="star" cx="30" cy="250" r="1.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle class="star" cx="620" cy="250" r="1.5"><animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle class="star" cx="1180" cy="30" r="1.3"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle class="star" cx="1170" cy="280" r="1"><animate attributeName="opacity" values="1;0.3;1" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle class="star" cx="690" cy="300" r="1.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.3s" repeatCount="indefinite"/></circle>
+    <circle class="star" cx="150" cy="300" r="1.4"><animate attributeName="opacity" values="1;0.2;1" dur="4.2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Floating orbs -->
+  <circle cx="560" cy="70" r="60" fill="#a855f7" opacity="0.10">
+    <animateTransform attributeName="transform" type="translate" values="0 0;20 15;0 0" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="120" cy="230" r="80" fill="#36bcf7" opacity="0.08">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-15 -10;0 0" dur="10s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Left: intro -->
+  <text x="48" y="100" class="hello">👋 Hello World, I'm</text>
+  <g clip-path="url(#reveal)">
+    <text x="44" y="185" class="name" fill="url(#txt)" filter="url(#glow)">Jerald Jose</text>
+  </g>
+  <!-- blinking caret that follows the reveal -->
+  <rect x="44" y="120" width="5" height="75" fill="#36bcf7">
+    <animate attributeName="x" from="44" to="520" begin="0.4s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" begin="1.8s" repeatCount="indefinite"/>
+  </rect>
+  <text x="48" y="228" class="sub">Full-Stack • Mobile • AI • ERP • IoT Developer</text>
+  <text x="48" y="258" class="tag">📍 Philippines  ·  ⚡ Turning ideas into clean, efficient &amp; modern solutions</text>
+
+  <!-- Right: terminal -->
+  <g class="term">
+    <rect x="700" y="35" width="455" height="222" rx="12" fill="#0d1117" fill-opacity="0.88" stroke="#30363d"/>
+    <circle cx="722" cy="57" r="6" fill="#ff5f56"/>
+    <circle cx="742" cy="57" r="6" fill="#ffbd2e"/>
+    <circle cx="762" cy="57" r="6" fill="#27c93f"/>
+    <text x="928" y="62" class="mono" fill="#8b949e" text-anchor="middle" font-size="13">r47dzt3ch@dev: ~</text>
+
+    <g clip-path="url(#l1)"><text x="722" y="101" class="mono"><tspan fill="#27c93f">$</tspan><tspan fill="#e6edf3"> whoami</tspan></text></g>
+    <g clip-path="url(#l2)"><text x="722" y="127" class="mono" fill="#7dd3fc">jerald_jose  // aka r47dzt3ch</text></g>
+    <g clip-path="url(#l3)"><text x="722" y="153" class="mono"><tspan fill="#27c93f">$</tspan><tspan fill="#e6edf3"> cat stack.txt</tspan></text></g>
+    <g clip-path="url(#l4)"><text x="722" y="179" class="mono" fill="#f9a8d4">Laravel·Vue·Next.js·Kotlin·Python·C#</text></g>
+    <g clip-path="url(#l5)"><text x="722" y="205" class="mono"><tspan fill="#27c93f">$</tspan><tspan fill="#e6edf3"> ./ship --web --mobile --ai --iot</tspan></text></g>
+    <g clip-path="url(#l6)"><text x="722" y="231" class="mono" fill="#fde047">✔ Building the future... 🚀</text></g>
+  </g>
+
+  <!-- Moving waves -->
+  <g opacity="0.35">
+    <path fill="#36bcf7" d="M0 290 Q150 265 300 290 T600 290 T900 290 T1200 290 T1500 290 T1800 290 T2100 290 T2400 290 V340 H0 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g opacity="0.45">
+    <path fill="#a855f7" d="M0 305 Q150 285 300 305 T600 305 T900 305 T1200 305 T1500 305 T1800 305 T2100 305 T2400 305 V340 H0 Z">
+      <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g opacity="0.9">
+    <path fill="#0d1117" d="M0 320 Q150 305 300 320 T600 320 T900 320 T1200 320 T1500 320 T1800 320 T2100 320 T2400 320 V340 H0 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
+
